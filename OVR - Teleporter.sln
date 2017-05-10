@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D6A5DA0D-EE65-A2A2-C373-33CEDF5E4FE9}") = "OVR - Teleporter", "Assembly-CSharp.csproj", "{0997EC25-B304-5AB0-FAAE-74C36868345F}"
+EndProject
+Project("{D6A5DA0D-EE65-A2A2-C373-33CEDF5E4FE9}") = "OVR - Teleporter", "Assembly-CSharp-Editor.csproj", "{CFFA5477-BA04-CB68-2668-8FD1073FDC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0997EC25-B304-5AB0-FAAE-74C36868345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0997EC25-B304-5AB0-FAAE-74C36868345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0997EC25-B304-5AB0-FAAE-74C36868345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0997EC25-B304-5AB0-FAAE-74C36868345F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFA5477-BA04-CB68-2668-8FD1073FDC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFA5477-BA04-CB68-2668-8FD1073FDC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFA5477-BA04-CB68-2668-8FD1073FDC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFA5477-BA04-CB68-2668-8FD1073FDC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
